@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "This Christmas",
+  "base_artist": "ダニー・ハサウェイ",
+  "createdAt": "2025-12-25T11:40:13.665932Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Wit It This Christmas",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/01_Wit_It_This_Christmas_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Lonely Without You (This Christmas)",
+      "artist": "Mick Jagger",
+      "has_synced": true,
+      "path": "select/02_Lonely_Without_You_(This_Christmas)_Mick_Jagger.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "This Christmas",
+      "artist": "Patti LaBelle",
+      "has_synced": false,
+      "path": "select/03_This_Christmas_Patti_LaBelle.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Lonely This Christmas",
+      "artist": "KT Tunstall",
+      "has_synced": false,
+      "path": "select/04_Lonely_This_Christmas_KT_Tunstall.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "(I Wish I Were Giving You a Gift) This Christmas",
+      "artist": "Girl Ray",
+      "has_synced": false,
+      "path": "select/05_(I_Wish_I_Were_Giving_You_a_Gift)_This_Christmas_Girl_Ray.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "This Christmas Day",
+      "artist": "Jessie J",
+      "has_synced": true,
+      "path": "select/06_This_Christmas_Day_Jessie_J.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "All I Want Is You (This Christmas)",
+      "artist": "*NSYNC",
+      "has_synced": true,
+      "path": "select/07_All_I_Want_Is_You_(This_Christmas)_NSYNC.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "This Christmas",
+      "artist": "Christina Aguilera",
+      "has_synced": true,
+      "path": "select/08_This_Christmas_Christina_Aguilera.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "This Christmas",
+      "artist": "Train",
+      "has_synced": false,
+      "path": "select/09_This_Christmas_Train.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "I Hate You This Christmas",
+      "artist": "Kate Nash",
+      "has_synced": true,
+      "path": "select/10_I_Hate_You_This_Christmas_Kate_Nash.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "This Christmas",
+      "artist": "Destiny's Child",
+      "has_synced": true,
+      "path": "select/11_This_Christmas_Destiny's_Child.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "This Christmas",
+      "artist": "SWV",
+      "has_synced": true,
+      "path": "select/12_This_Christmas_SWV.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "This Christmas",
+      "artist": "Masayuki Suzuki",
+      "has_synced": true,
+      "path": "select/13_This_Christmas_Masayuki_Suzuki.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "This Christmas",
+      "artist": "Donny Hathaway",
+      "has_synced": true,
+      "path": "select/14_This_Christmas_Donny_Hathaway.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "This Christmas (LP Version)",
+      "artist": "Donny Hathaway",
+      "has_synced": true,
+      "path": "select/15_This_Christmas_(LP_Version)_Donny_Hathaway.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Home To You (This Christmas)",
+      "artist": "Sigrid",
+      "has_synced": true,
+      "path": "select/16_Home_To_You_(This_Christmas)_Sigrid.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "This Christmas",
+      "artist": "Donny Hathaway",
+      "has_synced": false,
+      "path": "select/pl_01_This_Christmas_Donny_Hathaway.txt"
+    }
+  ]
+}
